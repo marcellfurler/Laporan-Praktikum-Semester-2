@@ -1,0 +1,5 @@
+senin = matematika, bahaa inggris
+selasa = Ilmu alam
+rabu = filsafat
+kamis = bahasa belanda
+jumat = lgbt learning
