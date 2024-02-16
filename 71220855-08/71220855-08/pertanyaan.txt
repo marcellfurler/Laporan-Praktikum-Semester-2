@@ -1,0 +1,7 @@
+1. Berapa jumlah provinsi di Indonesia ? || 37
+2. Kapan Indonesia merdeka ? || 17 agustus 1945
+3. Apa terjemahan bahasa Indonesia dari kata "dog" ? || anjing
+4. Apakah Irlandia Utara masuk dalam kawasan United Kingdom ? (ya/tidak) || ya
+5. Berapa hasil dari 75 + 12 ? || 87
+6. Jika aiueo=0 dan diluar itu=1, apakah terjemahan dari kata 'Aku cinta Kamu' ? || 11011011011010
+
